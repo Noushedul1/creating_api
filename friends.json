@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "fname": "Farhad Islam",
+        "email": "farhad@gmail.com"
+    },
+    {
+        "id": 2,
+        "fname": "Arfat Islam",
+        "email": "arfat@gmail.com"
+    },
+    {
+        "id": 3,
+        "fname": "Nuhash",
+        "email": "nuhash@gmail.com"
+    },
+    {
+        "id": 4,
+        "fname": "Joy",
+        "email": "joy@gmail.com"
+    },
+    {
+        "id": 5,
+        "fname": "Anish",
+        "email": "anish@gmail.com"
+    }
+]
